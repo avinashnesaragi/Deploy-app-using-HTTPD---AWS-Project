@@ -23,6 +23,16 @@ This project demonstrates deployment of a static web application on an AWS EC2 i
 7. Configured HTTP access through the EC2 Security Group.
 8. Accessed the deployed application through the EC2 public IP address.
 
+## Screenshots
+
+### Live Application
+
+<img width="1920" height="1249" alt="Website-output" src="https://github.com/user-attachments/assets/39dc4632-015d-4482-b430-a5563420eb55" />
+
+### Apache HTTPD Service Status
+
+<img width="1920" height="609" alt="Apache HTTP Server Status" src="https://github.com/user-attachments/assets/f7edbdae-d553-481a-94f7-e359012074f1" />
+
 ## Author
 
 Avinash Nesaragi
